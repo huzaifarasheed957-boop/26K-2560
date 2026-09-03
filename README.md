@@ -59,4 +59,4 @@ git commit -m "message"
 
 ## A Picture I Like
 
-![A cute placeholder image]()
+![A cute placeholder image](https://github.com/huzaifarasheed957-boop/26K-2560/blob/main/ChatGPT%20Image%20Sep%203,%202026,%2012_31_32%20PM.png?raw=true)
